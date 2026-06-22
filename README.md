@@ -10,7 +10,7 @@ Final Project — *Fluid Mechanics I*
 
 **Author:** Amirali seyednejad · Student ID 40226428
 **Instructor:** Dr. Alireza Mashayekh · **Teaching Assistant:** Mohammadi
-Khordad 1405 (June 2026)
+Khordad 1405 (June 2025)
 
 </div>
 
