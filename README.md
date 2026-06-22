@@ -8,7 +8,7 @@
 Faculty of Mechanical Engineering
 Final Project — *Fluid Mechanics I*
 
-**Author:** Amirhossein Ghayoumi · Student ID 40226409
+**Author:** Amirali seyednejad · Student ID 40226428
 **Instructor:** Dr. Alireza Mashayekh · **Teaching Assistant:** Mohammadi
 Khordad 1405 (June 2026)
 
